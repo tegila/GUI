@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Days+One&display=swap');
+
+.text {
+    font-family: 'Days one';
+    font-size: 17px;
+}
+
+#domain {
+    width: 737px;
+    height: ;
+}
+
+#BUTTON1{
+    text-align: center;
+}
+
+#BUTTON2 {
+    text-align: left;
+    margin-top: 3px
+}
+
+#BUTTON3 {
+    text-align: right;
+    margin-top: -37px;
+    
+}
+
+.Login {
+    height: 400px
+}
+
+.row {
+    margin-top: 7%
+}
+
